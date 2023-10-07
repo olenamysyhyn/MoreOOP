@@ -1,6 +1,6 @@
 # More OOP
 
-Зroject for Lab More OOP at the Object-oriented programming course at Ukrainian Catholic University.
+Project for Lab More OOP at the Object-oriented programming course at Ukrainian Catholic University.
 
 ## Continuous Integration
 
